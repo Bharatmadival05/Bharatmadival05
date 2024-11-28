@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharatmadival05
 - 👀 I’m interested in software development and web development software based jobs 
-- 🌱 I’m currently studying CSE 3rd year
+- 🌱 I’m currently Graduated CSE Fresher.
 - 💞️ I’m looking for implementing some projects
 - 📫 How to reach me you can contact me by my mail bharatmadival586@gmail.com
 
